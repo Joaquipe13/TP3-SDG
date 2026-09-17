@@ -1,0 +1,932 @@
+"nombre","cod_producto","litros_envase","cod_venta","cantidad"
+"Old Fashioned Root Beer","11",2,237022,3
+"Vanilla Cream Soda","28",0.5,237022,6
+"Orange juice","37",0.5,237022,7
+"Trappiste Beer","41",0.33,237022,5
+"Old Fashioned Root Beer","11",2,239046,4
+"Old Fashioned Root Beer","10",1,239266,24
+"Energy drink","17",2,239266,27
+"Diet Cream Soda","30",2,239266,21
+"Grapefruit juice","34",0.5,239266,21
+"Diet energy drink","40",0.5,239266,28
+"Diet Cream Soda","29",1,239266,3
+"Diet Root Beer","13",1,239046,1
+"Energy drink","16",1,239046,1
+"Grapefruit juice","34",0.5,239046,3
+"Old Fashioned Root Beer","11",2,239266,47
+"Vanilla Cream Soda","25",1,239266,3
+"Grapefruit juice","33",2,239266,46
+"Orange juice","35",1,239266,8
+"Orange juice","35",1,241864,5
+"Vanilla Cream Soda","28",0.5,241864,10
+"Grapefruit juice","34",0.5,241864,7
+"Orange juice","35",1,241885,32
+"Diet Root Beer","14",2,241864,7
+"Dark Cream Soda","23",2,242093,1
+"Orange juice","36",2,242197,2
+"Vanilla Cream Soda","28",0.5,241885,30
+"Old Fashioned Root Beer","12",0.5,242093,3
+"Old Fashioned Root Beer","10",1,242197,26
+"Diet Cream Soda","30",2,242197,22
+"Vanilla Cream Soda","26",2,242197,17
+"Vanilla Cream Soda","28",0.5,242197,5
+"Energy drink","16",1,241864,8
+"Grapefruit juice","33",2,241864,7
+"Orval Beer","42",0.33,242093,5
+"Trappiste Beer","41",0.33,242197,23
+"Birch Beer","21",0.5,242197,4
+"Birch Beer","20",2,242197,27
+"Grapefruit juice","34",0.5,242197,18
+"Old Fashioned Root Beer","11",2,242197,29
+"Energy drink","18",0.5,242197,43
+"Grapefruit juice","33",2,242197,16
+"Diet energy drink","40",0.5,243044,7
+"Diet Root Beer","14",2,242197,31
+"Dark Cream Soda","24",0.5,242197,64
+"Orval Beer","42",0.33,242197,23
+"Energy drink","17",2,243044,27
+"Diet Root Beer","15",0.5,243375,6
+"Diet Root Beer","13",1,242197,16
+"Energy drink","17",2,242197,23
+"Old Fashioned Root Beer","12",0.5,243375,8
+"Diet energy drink","40",0.5,243375,6
+"Orange juice","35",1,243044,16
+"Grapefruit juice","34",0.5,243375,15
+"Dark Cream Soda","23",2,243375,6
+"Diet Cream Soda","29",1,243044,27
+"Diet Root Beer","14",2,243044,18
+"Vanilla Cream Soda","26",2,243044,14
+"Diet Root Beer","14",2,243375,3
+"Diet Root Beer","13",1,243375,22
+"Grapefruit juice","32",1,243375,28
+"Vanilla Cream Soda","25",1,243375,33
+"Orange juice","36",2,243375,18
+"Birch Beer","21",0.5,243375,17
+"Orange juice","35",1,244440,9
+"Diet Root Beer","15",0.5,247653,7
+"Vanilla Cream Soda","25",1,248268,9
+"Diet Root Beer","13",1,247653,6
+"Birch Beer","21",0.5,248268,5
+"Energy drink","17",2,248268,5
+"Diet energy drink","39",2,248268,9
+"Diet Cream Soda","30",2,251028,1
+"Diet energy drink","38",1,251028,7
+"Vanilla Cream Soda","26",2,251028,11
+"Diet energy drink","40",0.5,251725,8
+"Old Fashioned Root Beer","10",1,252145,59
+"Old Fashioned Root Beer","12",0.5,251028,9
+"Old Fashioned Root Beer","11",2,251725,8
+"Diet energy drink","38",1,252145,15
+"Diet Cream Soda","30",2,252145,4
+"Old Fashioned Root Beer","12",0.5,252145,29
+"Energy drink","17",2,252145,12
+"Diet Cream Soda","31",0.5,252145,18
+"Dark Cream Soda","24",0.5,252606,13
+"Vanilla Cream Soda","28",0.5,252606,7
+"Vanilla Cream Soda","26",2,252145,24
+"Vanilla Cream Soda","27",0.67,252145,23
+"Energy drink","18",0.5,252145,29
+"Diet energy drink","39",2,252145,4
+"Birch Beer","21",0.5,252606,16
+"Vanilla Cream Soda","25",1,252606,29
+"Trappiste Beer","41",0.33,252606,12
+"Diet Root Beer","13",1,252732,6
+"Diet Root Beer","14",2,252732,8
+"Grapefruit juice","34",0.5,253681,8
+"Old Fashioned Root Beer","11",2,253681,1
+"Energy drink","17",2,253580,22
+"Dark Cream Soda","23",2,253681,4
+"Diet Cream Soda","29",1,255158,7
+"Birch Beer","21",0.5,255740,8
+"Diet Root Beer","13",1,255779,5
+"Old Fashioned Root Beer","12",0.5,255761,1
+"Orange juice","36",2,255761,5
+"Grapefruit juice","32",1,255779,5
+"Vanilla Cream Soda","25",1,255830,7
+"Orange juice","36",2,255740,16
+"Diet Root Beer","15",0.5,255761,6
+"Vanilla Cream Soda","27",0.67,255779,7
+"Orange juice","37",0.5,255740,17
+"Vanilla Cream Soda","28",0.5,255761,3
+"Trappiste Beer","41",0.33,255761,2
+"Diet energy drink","38",1,256675,1
+"Diet energy drink","39",2,256675,7
+"Diet Root Beer","14",2,256675,5
+"Vanilla Cream Soda","27",0.67,257415,7
+"Vanilla Cream Soda","25",1,257415,4
+"Diet Root Beer","14",2,257415,10
+"Diet Cream Soda","29",1,257415,3
+"Grapefruit juice","32",1,257415,3
+"Vanilla Cream Soda","27",0.67,258264,6
+"Diet Root Beer","15",0.5,258397,10
+"Diet Cream Soda","30",2,258264,8
+"Birch Beer","19",1,258397,5
+"Diet Cream Soda","30",2,259135,15
+"Dark Cream Soda","24",0.5,258397,6
+"Diet energy drink","38",1,259135,14
+"Orange juice","35",1,259135,15
+"Orval Beer","42",0.33,258397,3
+"Diet Root Beer","15",0.5,259135,29
+"Diet Cream Soda","29",1,259135,19
+"Diet Root Beer","13",1,259135,2
+"Grapefruit juice","32",1,259135,15
+"Birch Beer","20",2,259135,13
+"Old Fashioned Root Beer","10",1,259135,5
+"Grapefruit juice","33",2,259135,2
+"Dark Cream Soda","22",1,259135,20
+"Vanilla Cream Soda","26",2,259602,3
+"Diet energy drink","39",2,259602,1
+"Energy drink","17",2,260727,55
+"Diet Cream Soda","29",1,260727,16
+"Trappiste Beer","41",0.33,260727,5
+"Grapefruit juice","34",0.5,260727,11
+"Birch Beer","20",2,260727,19
+"Old Fashioned Root Beer","12",0.5,260727,14
+"Diet Root Beer","13",1,260727,26
+"Vanilla Cream Soda","25",1,260727,3
+"Diet energy drink","39",2,260727,17
+"Grapefruit juice","33",2,260727,25
+"Vanilla Cream Soda","28",0.5,260727,22
+"Old Fashioned Root Beer","10",1,261766,25
+"Grapefruit juice","34",0.5,261766,38
+"Trappiste Beer","41",0.33,261766,9
+"Energy drink","17",2,261766,18
+"Vanilla Cream Soda","28",0.5,261766,15
+"Orval Beer","42",0.33,261766,30
+"Diet Cream Soda","29",1,261766,17
+"Orange juice","35",1,261766,1
+"Diet energy drink","39",2,261766,21
+"Birch Beer","21",0.5,261766,22
+"Diet Root Beer","13",1,261766,30
+"Dark Cream Soda","24",0.5,261766,14
+"Grapefruit juice","33",2,263947,10
+"Old Fashioned Root Beer","10",1,264211,11
+"Diet Cream Soda","29",1,264211,7
+"Old Fashioned Root Beer","10",1,263947,6
+"Dark Cream Soda","23",2,264777,6
+"Diet energy drink","39",2,264777,3
+"Grapefruit juice","33",2,264777,8
+"Orval Beer","42",0.33,264777,14
+"Grapefruit juice","32",1,263947,9
+"Old Fashioned Root Beer","10",1,264777,29
+"Vanilla Cream Soda","26",2,263947,18
+"Birch Beer","19",1,264777,1
+"Vanilla Cream Soda","28",0.5,264777,25
+"Birch Beer","21",0.5,264777,35
+"Grapefruit juice","33",2,264211,47
+"Orval Beer","42",0.33,264211,13
+"Diet Cream Soda","31",0.5,264777,9
+"Old Fashioned Root Beer","11",2,264777,20
+"Dark Cream Soda","22",1,264777,28
+"Dark Cream Soda","24",0.5,264777,28
+"Energy drink","18",0.5,264777,26
+"Trappiste Beer","41",0.33,264777,11
+"Vanilla Cream Soda","25",1,266233,10
+"Grapefruit juice","33",2,266233,8
+"Dark Cream Soda","22",1,266233,4
+"Energy drink","16",1,266233,3
+"Diet Root Beer","14",2,266233,1
+"Diet Cream Soda","30",2,267692,1
+"Dark Cream Soda","24",0.5,267692,5
+"Diet Cream Soda","31",0.5,267692,19
+"Grapefruit juice","32",1,267692,19
+"Grapefruit juice","33",2,267692,17
+"Old Fashioned Root Beer","12",0.5,267692,28
+"Birch Beer","20",2,267692,11
+"Orange juice","36",2,267692,29
+"Old Fashioned Root Beer","11",2,267692,14
+"Diet energy drink","38",1,269315,28
+"Diet Root Beer","15",0.5,269315,23
+"Old Fashioned Root Beer","10",1,269315,19
+"Diet energy drink","40",0.5,269315,17
+"Diet Cream Soda","30",2,269315,3
+"Old Fashioned Root Beer","12",0.5,269315,6
+"Energy drink","16",1,269315,28
+"Birch Beer","19",1,269315,2
+"Diet Cream Soda","31",0.5,269315,7
+"Trappiste Beer","41",0.33,269315,14
+"Birch Beer","20",2,269315,30
+"Grapefruit juice","34",0.5,269315,57
+"Dark Cream Soda","23",2,269315,9
+"Diet Root Beer","13",1,269315,28
+"Grapefruit juice","32",1,269315,6
+"Diet Root Beer","13",1,271167,22
+"Vanilla Cream Soda","26",2,271167,39
+"Diet Root Beer","15",0.5,271167,18
+"Diet energy drink","38",1,271167,5
+"Orval Beer","42",0.33,271167,16
+"Grapefruit juice","34",0.5,271688,8
+"Grapefruit juice","32",1,271688,8
+"Diet Root Beer","14",2,272610,33
+"Diet Root Beer","15",0.5,272610,2
+"Grapefruit juice","33",2,272610,2
+"Dark Cream Soda","24",0.5,271688,2
+"Trappiste Beer","41",0.33,271688,9
+"Energy drink","18",0.5,272610,29
+"Grapefruit juice","34",0.5,272610,16
+"Diet energy drink","39",2,272610,5
+"Diet energy drink","40",0.5,272610,24
+"Diet Cream Soda","31",0.5,272610,12
+"Energy drink","16",1,272610,24
+"Orange juice","37",0.5,272610,29
+"Birch Beer","21",0.5,272610,34
+"Grapefruit juice","34",0.5,273935,10
+"Vanilla Cream Soda","28",0.5,274009,22
+"Birch Beer","21",0.5,274009,26
+"Birch Beer","19",1,274009,2
+"Diet energy drink","39",2,274009,18
+"Birch Beer","20",2,273935,5
+"Orval Beer","42",0.33,274009,9
+"Grapefruit juice","33",2,274009,14
+"Vanilla Cream Soda","28",0.5,273935,1
+"Diet energy drink","38",1,274009,7
+"Dark Cream Soda","22",1,274009,47
+"Orange juice","37",0.5,274009,17
+"Diet energy drink","40",0.5,273935,2
+"Old Fashioned Root Beer","10",1,275958,2
+"Energy drink","17",2,276823,26
+"Orange juice","35",1,275958,2
+"Energy drink","16",1,276823,17
+"Energy drink","18",0.5,276823,18
+"Old Fashioned Root Beer","12",0.5,276823,30
+"Diet Root Beer","14",2,276823,20
+"Dark Cream Soda","22",1,276823,12
+"Diet Cream Soda","31",0.5,276823,18
+"Birch Beer","21",0.5,276823,2
+"Dark Cream Soda","23",2,276823,21
+"Trappiste Beer","41",0.33,276823,40
+"Vanilla Cream Soda","28",0.5,278097,3
+"Vanilla Cream Soda","27",0.67,278097,15
+"Dark Cream Soda","24",0.5,278097,5
+"Diet energy drink","40",0.5,278097,5
+"Old Fashioned Root Beer","11",2,279186,28
+"Grapefruit juice","32",1,279186,12
+"Grapefruit juice","33",2,279186,22
+"Dark Cream Soda","24",0.5,279186,27
+"Diet Cream Soda","29",1,279186,29
+"Diet energy drink","38",1,279186,29
+"Vanilla Cream Soda","28",0.5,279186,25
+"Diet Cream Soda","30",2,279373,1
+"Orval Beer","42",0.33,281391,2
+"Vanilla Cream Soda","28",0.5,281391,4
+"Orange juice","37",0.5,282135,2
+"Vanilla Cream Soda","25",1,282135,10
+"Birch Beer","20",2,282135,1
+"Energy drink","18",0.5,282135,8
+"Vanilla Cream Soda","25",1,283073,12
+"Vanilla Cream Soda","28",0.5,282135,1
+"Energy drink","17",2,284862,8
+"Grapefruit juice","32",1,285357,17
+"Trappiste Beer","41",0.33,284862,21
+"Orange juice","37",0.5,285357,25
+"Trappiste Beer","41",0.33,285357,45
+"Old Fashioned Root Beer","12",0.5,285542,4
+"Energy drink","17",2,285542,22
+"Dark Cream Soda","22",1,284862,18
+"Birch Beer","20",2,285542,23
+"Grapefruit juice","33",2,285542,42
+"Orval Beer","42",0.33,285357,27
+"Old Fashioned Root Beer","11",2,285542,27
+"Dark Cream Soda","23",2,285542,14
+"Dark Cream Soda","24",0.5,285542,24
+"Vanilla Cream Soda","25",1,285357,21
+"Diet Cream Soda","31",0.5,285542,30
+"Vanilla Cream Soda","27",0.67,285542,1
+"Diet Root Beer","15",0.5,285357,10
+"Diet Root Beer","14",2,285542,13
+"Vanilla Cream Soda","27",0.67,285752,3
+"Energy drink","16",1,285542,24
+"Orange juice","37",0.5,289733,10
+"Old Fashioned Root Beer","12",0.5,290182,18
+"Orval Beer","42",0.33,289733,6
+"Orange juice","35",1,290182,4
+"Diet Cream Soda","30",2,290371,4
+"Dark Cream Soda","23",2,289733,3
+"Diet energy drink","40",0.5,290182,19
+"Energy drink","16",1,290371,5
+"Old Fashioned Root Beer","10",1,290371,3
+"Old Fashioned Root Beer","12",0.5,291070,2
+"Diet energy drink","38",1,291070,3
+"Orval Beer","42",0.33,291070,8
+"Old Fashioned Root Beer","10",1,291275,9
+"Birch Beer","20",2,291275,26
+"Vanilla Cream Soda","27",0.67,291275,16
+"Diet Root Beer","15",0.5,291275,15
+"Dark Cream Soda","23",2,291070,3
+"Diet energy drink","38",1,291275,21
+"Dark Cream Soda","24",0.5,291275,2
+"Diet Cream Soda","30",2,291275,30
+"Birch Beer","21",0.5,291700,7
+"Vanilla Cream Soda","27",0.67,291700,3
+"Diet Cream Soda","31",0.5,291700,4
+"Birch Beer","20",2,292644,7
+"Grapefruit juice","33",2,292644,1
+"Orange juice","35",1,292644,6
+"Orange juice","37",0.5,294791,2
+"Energy drink","16",1,294987,4
+"Orange juice","36",2,294987,11
+"Birch Beer","20",2,294987,8
+"Vanilla Cream Soda","27",0.67,294987,10
+"Diet energy drink","40",0.5,294987,22
+"Orval Beer","42",0.33,294987,30
+"Energy drink","17",2,294987,10
+"Grapefruit juice","32",1,294987,24
+"Energy drink","16",1,295296,7
+"Diet energy drink","39",2,294791,24
+"Energy drink","17",2,295296,26
+"Diet energy drink","39",2,294987,10
+"Old Fashioned Root Beer","12",0.5,295266,7
+"Diet Root Beer","15",0.5,295266,7
+"Diet Cream Soda","29",1,295296,6
+"Birch Beer","20",2,295727,9
+"Energy drink","17",2,295727,7
+"Dark Cream Soda","23",2,295296,15
+"Diet Cream Soda","31",0.5,295266,4
+"Diet Root Beer","14",2,295727,6
+"Diet Root Beer","15",0.5,295727,10
+"Orval Beer","42",0.33,295727,5
+"Dark Cream Soda","24",0.5,295973,1
+"Dark Cream Soda","23",2,295973,5
+"Diet Root Beer","14",2,299058,2
+"Vanilla Cream Soda","26",2,299058,20
+"Energy drink","16",1,299058,1
+"Dark Cream Soda","24",0.5,299058,6
+"Trappiste Beer","41",0.33,300171,9
+"Vanilla Cream Soda","25",1,300171,9
+"Birch Beer","19",1,300896,29
+"Diet Cream Soda","29",1,300896,20
+"Old Fashioned Root Beer","10",1,300896,21
+"Diet energy drink","40",0.5,300171,1
+"Energy drink","16",1,300896,27
+"Vanilla Cream Soda","28",0.5,300896,19
+"Trappiste Beer","41",0.33,300896,10
+"Grapefruit juice","33",2,302860,9
+"Vanilla Cream Soda","28",0.5,302860,9
+"Diet Root Beer","14",2,302860,8
+"Vanilla Cream Soda","27",0.67,303368,9
+"Energy drink","18",0.5,303706,23
+"Birch Beer","20",2,303706,22
+"Orange juice","36",2,303706,28
+"Diet Root Beer","14",2,303368,5
+"Diet energy drink","40",0.5,303706,17
+"Diet Root Beer","13",1,303706,27
+"Diet Root Beer","15",0.5,304929,4
+"Vanilla Cream Soda","26",2,304929,8
+"Energy drink","17",2,306558,2
+"Vanilla Cream Soda","27",0.67,306558,2
+"Vanilla Cream Soda","25",1,306558,8
+"Diet Root Beer","15",0.5,309846,2
+"Vanilla Cream Soda","26",2,309846,3
+"Diet energy drink","40",0.5,310000,3
+"Diet energy drink","38",1,309956,3
+"Energy drink","16",1,310606,24
+"Dark Cream Soda","24",0.5,310606,27
+"Vanilla Cream Soda","25",1,309846,4
+"Orange juice","35",1,309846,9
+"Birch Beer","21",0.5,309956,8
+"Grapefruit juice","32",1,309956,6
+"Dark Cream Soda","24",0.5,310000,3
+"Diet energy drink","40",0.5,310606,5
+"Diet energy drink","39",2,310606,12
+"Old Fashioned Root Beer","11",2,310606,24
+"Diet Root Beer","13",1,310606,25
+"Vanilla Cream Soda","28",0.5,310606,30
+"Energy drink","17",2,312100,23
+"Dark Cream Soda","23",2,312327,6
+"Vanilla Cream Soda","25",1,312327,5
+"Diet energy drink","38",1,312327,4
+"Energy drink","16",1,312100,30
+"Energy drink","18",0.5,312327,6
+"Dark Cream Soda","24",0.5,312100,12
+"Vanilla Cream Soda","26",2,312100,6
+"Orange juice","35",1,312209,2
+"Diet Cream Soda","29",1,312209,3
+"Orval Beer","42",0.33,312478,6
+"Trappiste Beer","41",0.33,312209,8
+"Diet Root Beer","13",1,312327,10
+"Old Fashioned Root Beer","10",1,312478,3
+"Birch Beer","21",0.5,312478,11
+"Energy drink","17",2,313600,9
+"Birch Beer","21",0.5,313600,14
+"Orange juice","35",1,313600,21
+"Diet Root Beer","13",1,313600,30
+"Vanilla Cream Soda","28",0.5,313600,22
+"Orange juice","36",2,313848,4
+"Old Fashioned Root Beer","10",1,313600,36
+"Diet Cream Soda","30",2,313600,5
+"Diet Cream Soda","31",0.5,313600,28
+"Diet Cream Soda","29",1,313848,6
+"Birch Beer","19",1,313600,16
+"Vanilla Cream Soda","25",1,313600,24
+"Diet energy drink","40",0.5,313848,4
+"Vanilla Cream Soda","28",0.5,313848,7
+"Orange juice","35",1,314819,2
+"Diet Root Beer","13",1,315304,10
+"Diet energy drink","38",1,315304,7
+"Diet energy drink","39",2,314819,3
+"Dark Cream Soda","23",2,315304,18
+"Trappiste Beer","41",0.33,315304,30
+"Vanilla Cream Soda","28",0.5,314819,4
+"Birch Beer","19",1,315304,5
+"Grapefruit juice","34",0.5,315304,31
+"Birch Beer","20",2,315304,10
+"Vanilla Cream Soda","28",0.5,315942,7
+"Old Fashioned Root Beer","12",0.5,315304,10
+"Birch Beer","20",2,315942,9
+"Old Fashioned Root Beer","10",1,315304,4
+"Diet Cream Soda","31",0.5,315304,19
+"Diet Root Beer","14",2,315942,3
+"Diet energy drink","39",2,315942,10
+"Diet Root Beer","14",2,316738,2
+"Birch Beer","20",2,316738,2
+"Orange juice","36",2,316738,3
+"Grapefruit juice","33",2,316738,1
+"Dark Cream Soda","24",0.5,317737,17
+"Old Fashioned Root Beer","11",2,317737,10
+"Vanilla Cream Soda","28",0.5,317737,3
+"Birch Beer","19",1,317737,45
+"Dark Cream Soda","22",1,317737,2
+"Grapefruit juice","34",0.5,317737,19
+"Diet Root Beer","15",0.5,317737,20
+"Energy drink","16",1,317859,9
+"Energy drink","17",2,317859,7
+"Old Fashioned Root Beer","10",1,317737,19
+"Grapefruit juice","34",0.5,319445,1
+"Diet energy drink","39",2,319474,3
+"Diet Cream Soda","29",1,319445,17
+"Diet energy drink","38",1,319445,4
+"Diet Root Beer","13",1,319445,27
+"Vanilla Cream Soda","28",0.5,319445,38
+"Grapefruit juice","33",2,319445,27
+"Vanilla Cream Soda","28",0.5,321574,4
+"Vanilla Cream Soda","25",1,321964,4
+"Vanilla Cream Soda","26",2,321964,28
+"Grapefruit juice","33",2,321964,10
+"Diet Cream Soda","31",0.5,321964,9
+"Orange juice","36",2,321964,10
+"Orange juice","35",1,321964,26
+"Diet Cream Soda","30",2,323130,4
+"Vanilla Cream Soda","28",0.5,323130,6
+"Diet Cream Soda","31",0.5,323130,1
+"Energy drink","18",0.5,323130,4
+"Energy drink","16",1,323130,2
+"Energy drink","17",2,324337,8
+"Diet energy drink","40",0.5,324337,6
+"Diet energy drink","40",0.5,324359,2
+"Orange juice","35",1,324359,9
+"Orange juice","37",0.5,324359,3
+"Diet Root Beer","13",1,324359,2
+"Vanilla Cream Soda","27",0.67,333080,6
+"Trappiste Beer","41",0.33,333080,18
+"Old Fashioned Root Beer","10",1,333080,21
+"Grapefruit juice","34",0.5,333080,15
+"Energy drink","18",0.5,334865,29
+"Dark Cream Soda","22",1,334730,26
+"Diet energy drink","38",1,334865,30
+"Diet Root Beer","15",0.5,334865,12
+"Orange juice","35",1,334865,16
+"Diet energy drink","39",2,334865,9
+"Orval Beer","42",0.33,334730,20
+"Birch Beer","20",2,334865,5
+"Orange juice","37",0.5,334865,17
+"Old Fashioned Root Beer","12",0.5,334865,16
+"Orange juice","35",1,336564,3
+"Vanilla Cream Soda","28",0.5,336564,10
+"Diet energy drink","38",1,336564,29
+"Grapefruit juice","32",1,335972,5
+"Diet Root Beer","13",1,335972,1
+"Old Fashioned Root Beer","11",2,336564,25
+"Diet Root Beer","14",2,336564,18
+"Grapefruit juice","33",2,337488,9
+"Birch Beer","19",1,338080,17
+"Vanilla Cream Soda","26",2,338080,6
+"Energy drink","17",2,337839,3
+"Trappiste Beer","41",0.33,337488,9
+"Diet energy drink","40",0.5,338080,33
+"Orange juice","35",1,338080,5
+"Dark Cream Soda","23",2,338080,11
+"Vanilla Cream Soda","25",1,338080,3
+"Orange juice","36",2,338080,26
+"Diet Root Beer","14",2,338494,28
+"Diet Cream Soda","31",0.5,337839,10
+"Grapefruit juice","33",2,338080,14
+"Orval Beer","42",0.33,338080,15
+"Energy drink","18",0.5,338080,11
+"Diet Root Beer","13",1,338080,5
+"Diet Root Beer","15",0.5,338080,15
+"Diet energy drink","39",2,338080,7
+"Trappiste Beer","41",0.33,338080,15
+"Diet Cream Soda","30",2,338080,19
+"Old Fashioned Root Beer","11",2,338494,25
+"Dark Cream Soda","24",0.5,340007,2
+"Grapefruit juice","32",1,340007,3
+"Orval Beer","42",0.33,340007,4
+"Diet Root Beer","13",1,340007,28
+"Old Fashioned Root Beer","12",0.5,340046,4
+"Dark Cream Soda","24",0.5,340046,9
+"Birch Beer","19",1,340555,10
+"Orange juice","37",0.5,340555,9
+"Old Fashioned Root Beer","11",2,340637,1
+"Diet Cream Soda","30",2,340046,10
+"Birch Beer","21",0.5,340555,24
+"Diet Cream Soda","29",1,340637,9
+"Old Fashioned Root Beer","11",2,340046,2
+"Energy drink","17",2,340555,5
+"Vanilla Cream Soda","25",1,340555,6
+"Dark Cream Soda","23",2,340007,10
+"Diet energy drink","39",2,340007,4
+"Vanilla Cream Soda","27",0.67,340555,21
+"Diet energy drink","38",1,340555,2
+"Grapefruit juice","32",1,340555,22
+"Orange juice","35",1,340555,30
+"Dark Cream Soda","23",2,340637,5
+"Dark Cream Soda","22",1,341675,1
+"Birch Beer","21",0.5,340637,9
+"Diet Root Beer","15",0.5,341675,10
+"Orange juice","36",2,341675,1
+"Birch Beer","20",2,342051,2
+"Old Fashioned Root Beer","12",0.5,342051,6
+"Dark Cream Soda","24",0.5,342536,6
+"Grapefruit juice","32",1,342536,9
+"Diet energy drink","39",2,342536,4
+"Vanilla Cream Soda","27",0.67,342536,5
+"Orval Beer","42",0.33,342536,1
+"Orval Beer","42",0.33,343999,20
+"Energy drink","17",2,343999,18
+"Energy drink","18",0.5,343999,10
+"Grapefruit juice","34",0.5,343999,19
+"Birch Beer","19",1,343999,30
+"Old Fashioned Root Beer","10",1,343999,4
+"Diet energy drink","39",2,344185,2
+"Orange juice","37",0.5,343999,5
+"Orange juice","35",1,343999,30
+"Diet Root Beer","14",2,343999,20
+"Dark Cream Soda","24",0.5,344185,7
+"Diet energy drink","39",2,343999,10
+"Vanilla Cream Soda","25",1,343999,21
+"Birch Beer","19",1,344185,3
+"Orange juice","36",2,344185,10
+"Energy drink","16",1,345454,2
+"Old Fashioned Root Beer","12",0.5,346215,4
+"Orange juice","36",2,345454,8
+"Dark Cream Soda","23",2,346215,33
+"Birch Beer","19",1,346215,16
+"Diet energy drink","38",1,346215,9
+"Grapefruit juice","32",1,346215,26
+"Energy drink","16",1,346215,13
+"Diet Cream Soda","30",2,346215,20
+"Grapefruit juice","34",0.5,346215,8
+"Dark Cream Soda","23",2,346731,5
+"Vanilla Cream Soda","27",0.67,346731,4
+"Diet Cream Soda","29",1,347623,43
+"Dark Cream Soda","24",0.5,347623,10
+"Grapefruit juice","34",0.5,347623,37
+"Orval Beer","42",0.33,347623,23
+"Diet Cream Soda","30",2,347623,16
+"Birch Beer","20",2,347623,23
+"Old Fashioned Root Beer","10",1,348316,19
+"Vanilla Cream Soda","28",0.5,347623,6
+"Diet Cream Soda","30",2,348316,9
+"Dark Cream Soda","22",1,347623,16
+"Energy drink","17",2,348316,23
+"Dark Cream Soda","24",0.5,348316,19
+"Vanilla Cream Soda","27",0.67,348316,16
+"Birch Beer","21",0.5,349100,23
+"Diet Cream Soda","29",1,348620,3
+"Orange juice","35",1,348620,5
+"Old Fashioned Root Beer","12",0.5,348316,24
+"Diet energy drink","38",1,349393,4
+"Grapefruit juice","34",0.5,349100,7
+"Diet Root Beer","13",1,349393,8
+"Orange juice","36",2,349705,13
+"Vanilla Cream Soda","27",0.67,349705,5
+"Diet Root Beer","14",2,352045,8
+"Dark Cream Soda","22",1,352034,6
+"Dark Cream Soda","23",2,352034,20
+"Orange juice","37",0.5,352034,2
+"Energy drink","17",2,352521,8
+"Vanilla Cream Soda","26",2,352034,25
+"Diet energy drink","40",0.5,352045,2
+"Grapefruit juice","34",0.5,352521,11
+"Orval Beer","42",0.33,352045,1
+"Orange juice","36",2,352521,25
+"Diet energy drink","39",2,352034,2
+"Dark Cream Soda","23",2,352045,6
+"Diet Root Beer","15",0.5,353111,3
+"Orange juice","37",0.5,352521,20
+"Birch Beer","19",1,353111,22
+"Old Fashioned Root Beer","10",1,352521,18
+"Grapefruit juice","32",1,352521,12
+"Diet energy drink","40",0.5,352521,23
+"Vanilla Cream Soda","26",2,355058,5
+"Vanilla Cream Soda","27",0.67,355385,7
+"Old Fashioned Root Beer","11",2,355058,23
+"Vanilla Cream Soda","27",0.67,355058,20
+"Orval Beer","42",0.33,355058,12
+"Birch Beer","21",0.5,355578,20
+"Diet Root Beer","15",0.5,355385,6
+"Diet Root Beer","14",2,355058,9
+"Energy drink","17",2,355578,13
+"Old Fashioned Root Beer","12",0.5,355058,29
+"Diet energy drink","39",2,355058,19
+"Trappiste Beer","41",0.33,355578,9
+"Diet Root Beer","14",2,355385,2
+"Orange juice","35",1,356849,4
+"Diet Root Beer","14",2,356849,3
+"Diet Cream Soda","29",1,359838,6
+"Orange juice","36",2,359838,6
+"Diet energy drink","40",0.5,359838,10
+"Energy drink","18",0.5,361847,6
+"Birch Beer","20",2,361847,24
+"Old Fashioned Root Beer","11",2,361847,3
+"Diet energy drink","40",0.5,361828,10
+"Dark Cream Soda","24",0.5,361847,23
+"Orval Beer","42",0.33,361847,29
+"Birch Beer","19",1,361847,30
+"Trappiste Beer","41",0.33,361847,20
+"Vanilla Cream Soda","26",2,361828,5
+"Diet Root Beer","14",2,361847,3
+"Diet Root Beer","15",0.5,361847,21
+"Vanilla Cream Soda","28",0.5,361847,22
+"Diet energy drink","38",1,361847,30
+"Diet Cream Soda","29",1,361847,17
+"Dark Cream Soda","22",1,361847,4
+"Old Fashioned Root Beer","11",2,363332,8
+"Diet Cream Soda","31",0.5,363332,17
+"Grapefruit juice","33",2,363332,20
+"Energy drink","17",2,363332,18
+"Diet Root Beer","15",0.5,363242,14
+"Diet Cream Soda","30",2,363242,30
+"Old Fashioned Root Beer","11",2,363242,3
+"Diet energy drink","39",2,363242,26
+"Vanilla Cream Soda","26",2,363332,23
+"Vanilla Cream Soda","28",0.5,363242,7
+"Energy drink","18",0.5,363242,23
+"Vanilla Cream Soda","27",0.67,363242,7
+"Diet Root Beer","13",1,363332,2
+"Orval Beer","42",0.33,363242,30
+"Birch Beer","21",0.5,363242,7
+"Dark Cream Soda","24",0.5,363242,1
+"Orange juice","36",2,363242,18
+"Diet Cream Soda","30",2,363332,19
+"Vanilla Cream Soda","26",2,367125,8
+"Dark Cream Soda","22",1,367125,21
+"Orval Beer","42",0.33,367125,19
+"Orange juice","37",0.5,367125,26
+"Trappiste Beer","41",0.33,367125,10
+"Orange juice","37",0.5,367767,8
+"Grapefruit juice","33",2,367125,25
+"Energy drink","17",2,367125,14
+"Old Fashioned Root Beer","11",2,367767,4
+"Orval Beer","42",0.33,367767,3
+"Vanilla Cream Soda","28",0.5,368114,2
+"Diet Cream Soda","29",1,368114,11
+"Diet Cream Soda","29",1,367767,1
+"Birch Beer","20",2,368114,46
+"Diet Root Beer","15",0.5,368552,3
+"Dark Cream Soda","22",1,368552,8
+"Vanilla Cream Soda","28",0.5,368552,1
+"Birch Beer","21",0.5,370507,22
+"Diet Root Beer","14",2,370507,19
+"Diet Root Beer","14",2,371237,23
+"Dark Cream Soda","23",2,371237,13
+"Trappiste Beer","41",0.33,370507,8
+"Diet Cream Soda","31",0.5,371087,12
+"Grapefruit juice","32",1,371087,33
+"Diet Root Beer","15",0.5,371237,29
+"Diet energy drink","40",0.5,371406,2
+"Vanilla Cream Soda","26",2,371237,21
+"Orange juice","35",1,371237,4
+"Energy drink","16",1,371237,29
+"Dark Cream Soda","22",1,371237,28
+"Orange juice","36",2,371237,1
+"Vanilla Cream Soda","28",0.5,371237,19
+"Diet energy drink","38",1,371237,21
+"Old Fashioned Root Beer","11",2,371237,17
+"Trappiste Beer","41",0.33,371237,23
+"Diet energy drink","39",2,373238,16
+"Old Fashioned Root Beer","10",1,373238,3
+"Vanilla Cream Soda","27",0.67,373238,8
+"Diet Root Beer","13",1,373238,15
+"Diet Root Beer","14",2,373238,6
+"Grapefruit juice","32",1,373238,7
+"Dark Cream Soda","24",0.5,373238,13
+"Vanilla Cream Soda","28",0.5,373797,10
+"Birch Beer","20",2,374805,3
+"Orange juice","37",0.5,374805,9
+"Energy drink","16",1,375202,1
+"Dark Cream Soda","23",2,375443,3
+"Grapefruit juice","32",1,375443,6
+"Grapefruit juice","34",0.5,375443,12
+"Energy drink","18",0.5,375606,8
+"Grapefruit juice","33",2,375443,31
+"Diet Root Beer","14",2,375443,20
+"Diet Root Beer","14",2,375202,5
+"Orange juice","37",0.5,376086,13
+"Vanilla Cream Soda","25",1,375443,6
+"Dark Cream Soda","23",2,375606,10
+"Vanilla Cream Soda","26",2,376258,5
+"Diet Cream Soda","30",2,376086,19
+"Diet energy drink","40",0.5,376086,21
+"Energy drink","18",0.5,376258,1
+"Old Fashioned Root Beer","11",2,376430,5
+"Trappiste Beer","41",0.33,376258,6
+"Vanilla Cream Soda","25",1,376258,7
+"Trappiste Beer","41",0.33,376430,10
+"Diet energy drink","39",2,376086,3
+"Diet Cream Soda","31",0.5,376258,9
+"Trappiste Beer","41",0.33,377900,16
+"Diet Cream Soda","31",0.5,377900,25
+"Energy drink","16",1,377900,15
+"Old Fashioned Root Beer","10",1,377900,23
+"Vanilla Cream Soda","26",2,377900,16
+"Diet energy drink","39",2,377900,14
+"Energy drink","18",0.5,377900,6
+"Vanilla Cream Soda","25",1,377900,4
+"Grapefruit juice","32",1,377900,11
+"Diet Root Beer","14",2,378320,28
+"Diet energy drink","39",2,379288,8
+"Dark Cream Soda","23",2,378320,20
+"Diet Root Beer","14",2,379168,8
+"Diet Root Beer","15",0.5,379168,7
+"Diet energy drink","40",0.5,379168,4
+"Trappiste Beer","41",0.33,379288,2
+"Orange juice","35",1,380488,20
+"Dark Cream Soda","22",1,380488,10
+"Trappiste Beer","41",0.33,380488,30
+"Energy drink","16",1,380488,19
+"Energy drink","17",2,380488,16
+"Birch Beer","21",0.5,380488,26
+"Dark Cream Soda","23",2,380488,20
+"Energy drink","18",0.5,380488,29
+"Diet Cream Soda","30",2,380488,45
+"Grapefruit juice","32",1,380488,30
+"Orange juice","37",0.5,380488,28
+"Old Fashioned Root Beer","11",2,380488,2
+"Diet Cream Soda","31",0.5,380488,29
+"Grapefruit juice","34",0.5,380488,1
+"Diet energy drink","40",0.5,380488,8
+"Vanilla Cream Soda","28",0.5,382906,6
+"Orange juice","35",1,382906,10
+"Energy drink","16",1,382906,7
+"Old Fashioned Root Beer","11",2,382906,10
+"Vanilla Cream Soda","27",0.67,384563,44
+"Diet energy drink","38",1,384563,6
+"Diet Root Beer","14",2,384563,25
+"Old Fashioned Root Beer","12",0.5,384563,7
+"Dark Cream Soda","22",1,419528,9
+"Vanilla Cream Soda","25",1,419528,5
+"Energy drink","16",1,420103,1
+"Vanilla Cream Soda","26",2,420103,16
+"Diet Root Beer","13",1,420103,49
+"Old Fashioned Root Beer","10",1,420103,15
+"Diet energy drink","40",0.5,420103,24
+"Orange juice","37",0.5,421013,4
+"Grapefruit juice","32",1,421541,9
+"Birch Beer","20",2,421541,6
+"Old Fashioned Root Beer","12",0.5,429904,52
+"Birch Beer","19",1,429904,23
+"Diet energy drink","39",2,429904,9
+"Trappiste Beer","41",0.33,429904,25
+"Birch Beer","20",2,429904,18
+"Energy drink","17",2,429904,10
+"Dark Cream Soda","24",0.5,429904,18
+"Energy drink","16",1,430051,7
+"Diet energy drink","38",1,430800,6
+"Energy drink","18",0.5,429904,3
+"Diet Root Beer","14",2,429904,20
+"Diet Root Beer","15",0.5,429904,25
+"Grapefruit juice","34",0.5,430800,2
+"Orange juice","37",0.5,430800,8
+"Energy drink","16",1,430196,1
+"Orval Beer","42",0.33,430800,7
+"Diet Root Beer","13",1,430800,7
+"Old Fashioned Root Beer","11",2,431270,1
+"Diet Cream Soda","29",1,431270,8
+"Diet energy drink","39",2,432145,30
+"Diet energy drink","40",0.5,432314,10
+"Vanilla Cream Soda","26",2,432145,15
+"Diet energy drink","40",0.5,432145,44
+"Grapefruit juice","32",1,432145,3
+"Energy drink","16",1,432749,2
+"Birch Beer","19",1,432749,9
+"Vanilla Cream Soda","25",1,432749,1
+"Dark Cream Soda","22",1,431885,4
+"Old Fashioned Root Beer","11",2,432145,14
+"Grapefruit juice","33",2,432145,22
+"Diet Root Beer","15",0.5,431885,8
+"Birch Beer","19",1,432145,37
+"Old Fashioned Root Beer","10",1,432698,28
+"Diet energy drink","38",1,432698,2
+"Old Fashioned Root Beer","11",2,432698,28
+"Diet Root Beer","13",1,432698,28
+"Diet Cream Soda","31",0.5,432698,25
+"Diet Root Beer","14",2,432865,2
+"Birch Beer","21",0.5,432698,18
+"Diet energy drink","40",0.5,432865,6
+"Vanilla Cream Soda","28",0.5,432698,22
+"Trappiste Beer","41",0.33,432865,8
+"Energy drink","17",2,433228,1
+"Diet energy drink","38",1,433228,19
+"Dark Cream Soda","22",1,433228,11
+"Diet Cream Soda","29",1,435970,5
+"Energy drink","17",2,435970,2
+"Diet Root Beer","13",1,435970,3
+"Birch Beer","19",1,435970,5
+"Diet Cream Soda","30",2,438126,8
+"Dark Cream Soda","23",2,438126,8
+"Grapefruit juice","32",1,438637,5
+"Dark Cream Soda","24",0.5,438637,4
+"Dark Cream Soda","22",1,438126,9
+"Old Fashioned Root Beer","10",1,439100,33
+"Energy drink","16",1,438471,10
+"Grapefruit juice","33",2,438471,7
+"Diet energy drink","39",2,438637,5
+"Orval Beer","42",0.33,439100,26
+"Vanilla Cream Soda","28",0.5,439100,24
+"Grapefruit juice","33",2,439100,2
+"Orange juice","36",2,439100,33
+"Old Fashioned Root Beer","11",2,440261,10
+"Energy drink","18",0.5,440261,2
+"Dark Cream Soda","24",0.5,440261,7
+"Dark Cream Soda","23",2,441314,6
+"Birch Beer","20",2,441489,23
+"Old Fashioned Root Beer","12",0.5,441489,11
+"Diet Cream Soda","30",2,441314,24
+"Diet energy drink","39",2,441314,20
+"Dark Cream Soda","22",1,441489,12
+"Orange juice","37",0.5,441314,9
+"Diet Root Beer","14",2,441314,9
+"Dark Cream Soda","23",2,441489,17
+"Diet Cream Soda","29",1,441489,18
+"Diet energy drink","40",0.5,441489,23
+"Birch Beer","20",2,442736,4
+"Dark Cream Soda","22",1,442736,7
+"Old Fashioned Root Beer","12",0.5,443040,4
+"Diet energy drink","40",0.5,442736,2
+"Diet Root Beer","15",0.5,443040,5
+"Diet Cream Soda","30",2,443040,30
+"Orange juice","35",1,443040,21
+"Grapefruit juice","33",2,443040,5
+"Diet energy drink","38",1,443040,26
+"Vanilla Cream Soda","26",2,443545,15
+"Energy drink","17",2,443545,17
+"Orange juice","36",2,443040,34
+"Old Fashioned Root Beer","11",2,444059,29
+"Grapefruit juice","33",2,444059,26
+"Diet Root Beer","14",2,443545,8
+"Energy drink","18",0.5,444059,25
+"Diet Root Beer","15",0.5,444059,23
+"Dark Cream Soda","23",2,444059,17
+"Energy drink","17",2,444059,16
+"Energy drink","16",1,444059,3
+"Diet energy drink","40",0.5,444059,12
+"Diet energy drink","39",2,444059,21
+"Dark Cream Soda","23",2,451497,5
+"Energy drink","16",1,451497,1
+"Dark Cream Soda","22",1,452376,2
+"Old Fashioned Root Beer","10",1,452376,8
+"Diet Root Beer","15",0.5,452376,3
+"Old Fashioned Root Beer","11",2,452376,1
+"Diet Root Beer","13",1,454502,8
+"Grapefruit juice","33",2,454317,8
+"Old Fashioned Root Beer","12",0.5,454502,10
+"Vanilla Cream Soda","27",0.67,454317,3
+"Vanilla Cream Soda","26",2,454317,19
+"Trappiste Beer","41",0.33,454608,8
+"Diet energy drink","39",2,454502,6
+"Old Fashioned Root Beer","11",2,454502,8
+"Diet Cream Soda","29",1,454502,5
+"Diet Root Beer","15",0.5,454317,29
+"Vanilla Cream Soda","25",1,454317,10
+"Energy drink","16",1,454317,23
+"Diet Root Beer","14",2,454317,25
+"Trappiste Beer","41",0.33,454317,30
+"Grapefruit juice","34",0.5,454317,10
+"Dark Cream Soda","24",0.5,457916,29
+"Vanilla Cream Soda","26",2,457916,12
+"Old Fashioned Root Beer","11",2,457916,8
+"Birch Beer","19",1,457916,19
+"Diet energy drink","39",2,457916,10
+"Orange juice","36",2,457916,20
+"Trappiste Beer","41",0.33,457916,8
+"Dark Cream Soda","23",2,457916,12
+"Old Fashioned Root Beer","10",1,457916,23
+"Grapefruit juice","33",2,457916,17
+"Orval Beer","42",0.33,457916,27
+"Orange juice","36",2,458234,26
+"Diet energy drink","40",0.5,457916,18
+"Birch Beer","19",1,458470,8
+"Diet Cream Soda","30",2,457916,18
+"Energy drink","16",1,458470,8
+"Orange juice","35",1,457916,21
+"Energy drink","17",2,457916,1
+"Dark Cream Soda","24",0.5,458234,7
+"Vanilla Cream Soda","25",1,458470,2
+"Vanilla Cream Soda","26",2,458470,2
+"Old Fashioned Root Beer","12",0.5,461227,9
+"Diet energy drink","39",2,461227,4
+"Dark Cream Soda","24",0.5,461227,1
+"Energy drink","18",0.5,462994,8
+"Vanilla Cream Soda","25",1,462994,9
+"Diet Cream Soda","29",1,462994,10
