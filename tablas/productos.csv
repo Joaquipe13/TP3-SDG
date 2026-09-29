@@ -1,0 +1,43 @@
+"nombre"|"cod_producto"|"litros_envase"|"envase"|"rubro"|"dietetica"
+"Kool Cola"|"01"|1|"Botella"|"cola"|0
+"Kool Cola"|"02"|2|"Botella"|"cola"|0
+"Kool Cola"|"03"|0,5|"Lata"|"cola"|0
+"Diet Cola"|"04"|1|"Botella"|"cola"|1
+"Diet Cola"|"05"|2|"Botella"|"cola"|1
+"Diet Cola"|"06"|0,5|"Lata"|"cola"|1
+"Caffeine Free Cola"|"07"|1|"Botella"|"cola"|0
+"Caffeine Free Cola"|"08"|2|"Botella"|"cola"|0
+"Caffeine Free Cola"|"09"|0,5|"Lata"|"cola"|0
+"Old Fashioned Root Beer"|"10"|1|"Botella"|"soda"|0
+"Old Fashioned Root Beer"|"11"|2|"Botella"|"soda"|0
+"Old Fashioned Root Beer"|"12"|0,5|"Lata"|"soda"|0
+"Diet Root Beer"|"13"|1|"Botella"|"soda"|1
+"Diet Root Beer"|"14"|2|"Botella"|"soda"|1
+"Diet Root Beer"|"15"|0,5|"Lata"|"soda"|1
+"Energy drink"|"16"|1|"Botella"|"energy drink"|0
+"Energy drink"|"17"|2|"Botella"|"energy drink"|0
+"Energy drink"|"18"|0,5|"Lata"|"energy drink"|0
+"Birch Beer"|"19"|1|"Botella"|"soda"|0
+"Birch Beer"|"20"|2|"Botella"|"soda"|0
+"Birch Beer"|"21"|0,5|"Lata"|"soda"|0
+"Dark Cream Soda"|"22"|1|"Botella"|"soda"|0
+"Dark Cream Soda"|"23"|2|"Botella"|"soda"|0
+"Dark Cream Soda"|"24"|0,5|"Lata"|"soda"|0
+"Vanilla Cream Soda"|"25"|1|"Botella"|"soda"|0
+"Vanilla Cream Soda"|"26"|2|"Botella"|"soda"|0
+"Vanilla Cream Soda"|"27"|0,67|"Botella"|"soda"|0
+"Vanilla Cream Soda"|"28"|0,5|"Lata"|"soda"|0
+"Diet Cream Soda"|"29"|1|"Botella"|"soda"|1
+"Diet Cream Soda"|"30"|2|"Botella"|"soda"|1
+"Diet Cream Soda"|"31"|0,5|"Lata"|"soda"|1
+"Grapefruit juice"|"32"|1|"Botella"|"juice"|0
+"Grapefruit juice"|"33"|2|"Botella"|"juice"|0
+"Grapefruit juice"|"34"|0,5|"Lata"|"juice"|0
+"Orange juice"|"35"|1|"Botella"|"juice"|0
+"Orange juice"|"36"|2|"Botella"|"juice"|0
+"Orange juice"|"37"|0,5|"Lata"|"juice"|0
+"Diet energy drink"|"38"|1|"Botella"|"energy drink"|1
+"Diet energy drink"|"39"|2|"Botella"|"energy drink"|1
+"Diet energy drink"|"40"|0,5|"Lata"|"energy drink"|1
+"Trappiste Beer"|"41"|0,33|"Lata"|"beer"|0
+"Orval Beer"|"42"|0,33|"Lata"|"beer"|0
