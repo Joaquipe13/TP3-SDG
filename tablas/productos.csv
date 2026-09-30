@@ -1,13 +1,13 @@
 "nombre"|"cod_producto"|"litros_envase"|"envase"|"rubro"|"dietetica"
-"Kool Cola"|"01"|1|"Botella"|"cola"|0
-"Kool Cola"|"02"|2|"Botella"|"cola"|0
-"Kool Cola"|"03"|0,5|"Lata"|"cola"|0
-"Diet Cola"|"04"|1|"Botella"|"cola"|1
-"Diet Cola"|"05"|2|"Botella"|"cola"|1
-"Diet Cola"|"06"|0,5|"Lata"|"cola"|1
-"Caffeine Free Cola"|"07"|1|"Botella"|"cola"|0
-"Caffeine Free Cola"|"08"|2|"Botella"|"cola"|0
-"Caffeine Free Cola"|"09"|0,5|"Lata"|"cola"|0
+"Kool Cola"|"1"|1|"Botella"|"cola"|0
+"Kool Cola"|"2"|2|"Botella"|"cola"|0
+"Kool Cola"|"3"|0,5|"Lata"|"cola"|0
+"Diet Cola"|"4"|1|"Botella"|"cola"|1
+"Diet Cola"|"5"|2|"Botella"|"cola"|1
+"Diet Cola"|"6"|0,5|"Lata"|"cola"|1
+"Caffeine Free Cola"|"7"|1|"Botella"|"cola"|0
+"Caffeine Free Cola"|"8"|2|"Botella"|"cola"|0
+"Caffeine Free Cola"|"9"|0,5|"Lata"|"cola"|0
 "Old Fashioned Root Beer"|"10"|1|"Botella"|"soda"|0
 "Old Fashioned Root Beer"|"11"|2|"Botella"|"soda"|0
 "Old Fashioned Root Beer"|"12"|0,5|"Lata"|"soda"|0
